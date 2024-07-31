@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iOSChart/static/css/main.fe13b01c.css",
+    "main.js": "/iOSChart/static/js/main.71cc82ba.js",
+    "static/js/453.383886fb.chunk.js": "/iOSChart/static/js/453.383886fb.chunk.js",
+    "index.html": "/iOSChart/index.html",
+    "main.fe13b01c.css.map": "/iOSChart/static/css/main.fe13b01c.css.map",
+    "main.71cc82ba.js.map": "/iOSChart/static/js/main.71cc82ba.js.map",
+    "453.383886fb.chunk.js.map": "/iOSChart/static/js/453.383886fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe13b01c.css",
+    "static/js/main.71cc82ba.js"
+  ]
+}
